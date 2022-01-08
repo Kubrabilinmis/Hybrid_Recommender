@@ -1,4 +1,4 @@
-## Hybrid-Recommender
+## Hybrid Recommender
 
 # ![1_70hEtObAo19n-1tA8t9xMQ](https://user-images.githubusercontent.com/81189969/148660189-ebd068a6-8524-4289-89cc-bbc9b622756a.png)
 
