@@ -16,3 +16,6 @@ The dataset is the movie provided by MovieLens, a recommendation service. It con
 - timestamp – Evaluation date
 
 * Dataset : https://www.kaggle.com/grouplens/movielens-20m-dataset
+
+## My Kaggle Notebook
+* https://www.kaggle.com/kubrabilinmis/hybrid-recommender
